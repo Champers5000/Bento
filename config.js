@@ -73,13 +73,13 @@ const CONFIG = {
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://champersnc.duckdns.org/apps/calendar/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Canvas',
+			icon: 'backpack',
+			link: 'https://utexas.instructure.com/',
 		},
 		{
 			id: '6',
